@@ -1,0 +1,19 @@
+*{
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+.odd-number{
+    background-color: #ff9999;
+}
+.odd-number.three{
+    font-size: 24px;
+}
+#pair-number-two{
+    color: #0000ff;
+    font-size: 36px;
+}
+/* Maybe I could use another class for the font size and not repeat the same code from number three */
+#pair-number-four{
+    background-color: #83f28f;
+    font-size: 24px;
+    font-weight: bold;
+}
